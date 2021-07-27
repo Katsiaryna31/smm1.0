@@ -1,0 +1,101 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 20px;
+	max-width: 1200px;
+	font-family: "Roboto", Arial, sans-serif;
+	font-size: 20px;
+	line-height: 140%;
+	font-weight: 400;
+	color: #111111;
+	background-color: #f5f3f4;
+}
+
+.main-navigation {
+	padding-top: 40px;
+}
+
+.main-header-logo {
+	color: #111111;
+	font-size: 20px;
+	text-decoration: none;
+	position: relative;
+}
+
+.main-header-logo::after {
+	content: "";
+	width: 20px;
+	height: 20px;
+	top: 3px;
+
+	position: absolute;
+	background-image: url("../assets/instagram-2016-5.svg");
+	background-size: 20px 20px;
+}
+
+h1 {
+	font-size: 40px;
+	line-height: 140%;
+}
+
+.main-section {
+    display: flex;
+}
+
+.main-section p {
+    max-width: 700px;
+	line-height: 140%;
+}
+
+.definitions p {
+	padding-bottom: 30px;
+	margin: 0;
+}
+
+dfn {
+	display: block;
+	font-size: 24px;
+	padding-bottom: 10px;
+	font-weight: 500;
+} 
+
+.example-list {
+	margin: 0;
+}
+
+.example-list li {
+	padding-top: 10px;
+}
+
+.info {
+	font-size: 30px;
+	padding: 40px 0;
+	font-weight: 600;
+	line-height: 140%;
+}
+
+@media screen and (max-width: 800px) {
+	body {
+		font-size: 28px;
+	}
+
+	.main-header-logo {
+		font-size: 28px;
+	}
+	
+	.main-header-logo::after {
+		content: "";
+		width: 28px;
+		height: 28px;
+		top: 3px;
+	
+		position: absolute;
+		background-image: url("../assets/instagram-2016-5.svg");
+		background-size: 28px 28px;
+	}
+
+	dfn {
+		font-size: 30px;
+	} 
+}
+
