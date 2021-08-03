@@ -166,7 +166,7 @@
 - Шаблон "ТЗ для блогера"
 - https://docs.google.com/file/d/1PxZ8eDvvGO3QKw_s1TAmjMcy_juwB0hU/edit?filetype=msword
 - Чеклист "Создание подводок для рекламы у блогеров"
-- https://katsiaryna31.github.io/smm1.0/4module/check-lists/advert/
+- https://katsiaryna31.github.io/smm1.0/4module/check-lists/insta_advert/
 
 
 # 5 Модуль:
