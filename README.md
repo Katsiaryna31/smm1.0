@@ -167,3 +167,8 @@
 - https://docs.google.com/file/d/1PxZ8eDvvGO3QKw_s1TAmjMcy_juwB0hU/edit?filetype=msword
 - Чеклист "Создание подводок для рекламы у блогеров"
 - https://katsiaryna31.github.io/smm1.0/4module/check-lists/advert/
+
+
+# 5 Модуль:
+### Урок 5.1 Сильный личный бренд 
+- https://katsiaryna31.github.io/smm1.0/5module/brand/
