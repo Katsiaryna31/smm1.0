@@ -170,5 +170,12 @@
 
 
 # 5 Модуль:
-### Урок 5.1 Сильный личный бренд 
+### Урок 5.1 Сильный личный бренд
+- https://www.youtube.com/watch?v=KdSHyXXhZ_0&ab_channel=%D0%B0%D0%BB%D0%B5%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D1%87%D1%83%D0%BA
 - https://katsiaryna31.github.io/smm1.0/5module/brand/
+
+### Урок 5.2 Выгорание и вдохновение
+- Часть 1
+- https://www.youtube.com/watch?v=pPIVYeKClpY&ab_channel=Alena.pro.smm_
+- Часть 2
+- https://www.youtube.com/watch?v=5xLowv_F0co&ab_channel=Alena.pro.smm_
