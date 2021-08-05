@@ -1,0 +1,52 @@
+- Чек лист «Словарь SMM»:
+- https://katsiaryna31.github.io/smm1.0/1module/check-lists/vocabulary/
+- Чек лист «Первый клиент»:
+- https://katsiaryna31.github.io/smm1.0/1module/check-lists/first-client/
+- Чек лист «Сервисы по планированию»:
+- https://katsiaryna31.github.io/smm1.0/1module/check-lists/services/
+- Скринкаст "Как правильно заливать сторис"
+- https://www.youtube.com/watch?v=yFvxTeEVMdc&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- Чек лист "Где брать контент для сторис (проверенные каналы)"
+- https://katsiaryna31.github.io/smm1.0/2module/check-lists/stories/
+- Чек лист «20 идей, о чем писать в блоге»:
+- https://katsiaryna31.github.io/smm1.0/2module/check-lists/20ideas/
+- Чек лист "Где брать вдохновение для написания красивых текстов"
+- https://katsiaryna31.github.io/smm1.0/2module/check-lists/inspiration/
+- Видеоурок "Как правильно оформить шапку профиля"
+- https://www.instagram.com/tv/CMKW4Tah0kI/?utm_medium=copy_link
+- Видеоурок "Как убрать фон у сообщения"
+- https://www.youtube.com/watch?v=lqjFw6CjI74&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- Видео урок " Как сделать сохранённые сообщения для ответа в директ"
+- https://www.youtube.com/watch?v=LvSvf-XAi6Yab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- Чеклист «Как НЕЛЬЗЯ писать работодателю»
+- https://katsiaryna31.github.io/smm1.0/3module/check-lists/lettertoemployer/
+- Чеклист "Инструкция по оформлению кейсов"
+- https://katsiaryna31.github.io/smm1.0/3module/check-lists/cases/
+- Видеоурок "Тонкости массфоловинга"
+- https://www.youtube.com/watch?v=SU0p0w1REZY&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- Видеоурок "Таргет через кнопку "Продвигать"
+- https://www.youtube.com/watch?v=ZXjtz78Kuoc
+- Чеклист "10 фраз на собеседовании, после которых вас не возьмут на работу"
+- https://katsiaryna31.github.io/smm1.0/4module/check-lists/interview/
+- Чеклист "Топ приложений для инстаграм"
+- https://docs.google.com/file/d/1cD-z33JXO9lLuVwPQycKlT36vqtt2igW/edit?filetype=msword
+- Обзор приложения INSTORIES
+- https://www.youtube.com/watch?v=V8Qd0iaLAgw&ab_channel=Alena.pro.smm_
+- Обзор приложения InShot
+- https://www.youtube.com/watch?v=xyL36bfWujA&ab_channel=Alena.pro.smm_
+- Обзор приложения CapCut
+- https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
+- Чеклист "Отчет для клиента"
+- https://docs.google.com/file/d/12-UKsZT1rwhi1hwFfG6Mop_GpLiZW4C1/edit?filetype=msword
+- Чеклист "Как понять, что аккаунт готов к рекламе"
+- https://docs.google.com/file/d/1RNVYku5ZEsFQyIalunKFTDcgTVI0ypbZ/edit?filetype=msword
+- Чеклист "160 ответов на возражения"
+- https://likecentre-files.website.yandexcloud.net/files/160-answers.pdf
+- Видеоурок "Гивы, мой опыт"
+- https://www.youtube.com/watch?v=r493mIt2sDU&ab_channel=Alena.pro.smm_
+- Чек-лист "Техническое задание для блогера"
+- https://docs.google.com/file/d/1nKsFtHxnrkYi_zqT8D37Y49eYMfn0H12/edit?filetype=msword
+- Шаблон "ТЗ для блогера"
+- https://docs.google.com/file/d/1PxZ8eDvvGO3QKw_s1TAmjMcy_juwB0hU/edit?filetype=msword
+- Чеклист "Создание подводок для рекламы у блогеров"
+- https://katsiaryna31.github.io/smm1.0/4module/check-lists/insta_advert/
