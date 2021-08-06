@@ -20,8 +20,8 @@
 - https://katsiaryna31.github.io/smm1.0/1module/check-lists/services/
 - Чек-лист «Где искать клиентов, лайфхак по поиску»:
 - https://katsiaryna31.github.io/smm1.0/1module/check-lists/first-client/
-- <span style="color:red">Телеграм каналы с готовыми сторис:</span>
-- <span style="color:red">Телеграм каналы с идеями для создания сторис:</span>
+- ~~Телеграм каналы с готовыми сторис:~~
+- ~~Телеграм каналы с идеями для создания сторис:~~
 
 ## Домашнее задание:
 - https://drive.google.com/file/d/1Lvntywd-L8quX6WpoqUIBFDlgwmsdHtm/view
@@ -83,7 +83,7 @@
 - https://www.instagram.com/tv/CMKW4Tah0kI/?utm_medium=copy_link
 - Обзор приложения InShot
 - https://www.youtube.com/watch?v=xyL36bfWujA&ab_channel=Alena.pro.smm_
-- <span style="color:red">Видеоурок "Как добавить субтитры на видео"</span>
+- ~~Видеоурок "Как добавить субтитры на видео"~~
 - Видеоурок "Как убрать фон у сообщения"
 - https://www.youtube.com/watch?v=lqjFw6CjI74&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
 
@@ -114,19 +114,19 @@
  - https://katsiaryna31.github.io/smm1.0/3module/communication/
 
 ## Бонусы:
-- <span style="color:red">100+ заголовков, привлекающих внимание</span>
+- ~~100+ заголовков, привлекающих внимание~~
 - Чеклист «Как не надо писать работодателю»
 - https://katsiaryna31.github.io/smm1.0/3module/check-lists/lettertoemployer/
 - Чеклист "Инструкция по оформлению кейсов"
 - https://katsiaryna31.github.io/smm1.0/3module/check-lists/cases/
 - Видео урок " Как сделать сохранённые сообщения для ответа в директ"
 - https://www.youtube.com/watch?v=LvSvf-XAi6Yab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
-- <span style="color:red">Шаблон договора с клиентом между смм и физ. лицом</span>
+- ~~Шаблон договора с клиентом между смм и физ. лицом~~
 - Чеклист "Отчет для клиента"
 - https://docs.google.com/file/d/12-UKsZT1rwhi1hwFfG6Mop_GpLiZW4C1/edit?filetype=msword
 - Обзор приложения INSTORIES
 - https://www.youtube.com/watch?v=V8Qd0iaLAgw&ab_channel=Alena.pro.smm_
-- <span style="color:red">Видеомонтаж Переодевание</span>
+- ~~Видеомонтаж Переодевание~~
 - Чеклист "10 фраз на собеседовании, после которых вас не возьмут на работу"
 - https://katsiaryna31.github.io/smm1.0/4module/check-lists/interview/
 # 4 Модуль:
@@ -157,7 +157,7 @@
 
 - Чеклист "Как понять, что аккаунт готов к рекламе"
 - https://docs.google.com/file/d/1RNVYku5ZEsFQyIalunKFTDcgTVI0ypbZ/edit?filetype=msword
-- <span style="color:red">Телеграмм каналы по взаимному пиару «PR и бартер РБ» и «Otzovik Belarus”</span>
+- ~~Телеграмм каналы по взаимному пиару «PR и бартер РБ» и «Otzovik Belarus”~~
 - Видеоурок "Таргет через кнопку "Продвигать"
 - https://www.youtube.com/watch?v=ZXjtz78Kuoc
 - Чек-лист "Техническое задание для блогера"
@@ -194,13 +194,13 @@
 
 
 ## Бонусы:
-- <span style="color:red">Шаблон по распаковке личности</span>
-- <span style="color:red">Сценарии для закрепленных сторис</span>
-- <span style="color:red">Канал со стикерами</span>
+- ~~Шаблон по распаковке личности~~
+- ~~Сценарии для закрепленных сторис~~
+- ~~Канал со стикерами~~
 - Обзор приложения CapCut
 - https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
-- <span style="color:red">Телеграм канал с работодателямии специалистами</span>
-- <span style="color:red">Как быстро продвинуть свою страницу</span>
-- <span style="color:red">Страх СТОРИС как побороть</span>
+- ~~Телеграм канал с работодателямии специалистами~~
+- ~~Как быстро продвинуть свою страницу~~
+- ~~Страх СТОРИС как побороть~~
 - Чеклист "160 ответов на возражения"
 - https://likecentre-files.website.yandexcloud.net/files/160-answers.pdf
