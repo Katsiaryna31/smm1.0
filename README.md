@@ -11,15 +11,18 @@
 - https://katsiaryna31.github.io/smm1.0/1module/easystudy/
 - Урок 1.5 Как все успевать:
 - https://katsiaryna31.github.io/smm1.0/1module/keepup/
-## Чек-листы:
-- Чек лист «Словарь SMM»:
+## Бонусы:
+- Чек-лист «Словарь SMM»:
 - https://katsiaryna31.github.io/smm1.0/1module/check-lists/vocabulary/
-- Чек лист «Первый клиент»:
-- https://katsiaryna31.github.io/smm1.0/1module/check-lists/first-client/
-- Чек лист «Сервисы по планированию»:
-- https://katsiaryna31.github.io/smm1.0/1module/check-lists/services/
 - Скринкаст "Как правильно заливать сторис"
 - https://www.youtube.com/watch?v=yFvxTeEVMdc&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- Чек-лист «Топ сервисов по планированию»:
+- https://katsiaryna31.github.io/smm1.0/1module/check-lists/services/
+- Чек-лист «Где искать клиентов, лайфхак по поиску»:
+- https://katsiaryna31.github.io/smm1.0/1module/check-lists/first-client/
+- <span style="color:red">Телеграм каналы с готовыми сторис:</span>
+- <span style="color:red">Телеграм каналы с идеями для создания сторис:</span>
+
 ## Домашнее задание:
 - https://drive.google.com/file/d/1Lvntywd-L8quX6WpoqUIBFDlgwmsdHtm/view
 ## Прямой эфир "Знакомство"
@@ -53,8 +56,6 @@
   
   ### Урок 2.5 Оформим ленту с помощью помощников
 - https://katsiaryna31.github.io/smm1.0/2module/planning/
-- Обзор приложения Preview
-- https://www.youtube.com/watch?v=HNGSq7z6T7Q
 - Домашнее задание
 - https://drive.google.com/file/d/1OVpcOBznoBNBEc745Gn7-i4DE7h2aQQR/view
 
@@ -68,14 +69,21 @@
 - Домашнее задание
 - https://drive.google.com/file/d/1ViboGnXt7tWdVrlxEupHDd28dPOqOiN_/view
 ## Бонусы:
-- Чек лист "Где брать контент для сторис (проверенные каналы)"
+- Чек-лист "Где брать контент для сторис (проверенные каналы)"
 - https://katsiaryna31.github.io/smm1.0/2module/check-lists/stories/
+- Чеклист "Топ приложений для инстаграм"
+- https://docs.google.com/file/d/1cD-z33JXO9lLuVwPQycKlT36vqtt2igW/edit?filetype=msword
 - Чек лист «20 идей, о чем писать в блоге»:
 - https://katsiaryna31.github.io/smm1.0/2module/check-lists/20ideas/
+- Обзор приложения Preview
+- https://www.youtube.com/watch?v=HNGSq7z6T7Q
 - Чек лист "Где брать вдохновение для написания красивых текстов"
 - https://katsiaryna31.github.io/smm1.0/2module/check-lists/inspiration/
 - Видеоурок "Как правильно оформить шапку профиля"
 - https://www.instagram.com/tv/CMKW4Tah0kI/?utm_medium=copy_link
+- Обзор приложения InShot
+- https://www.youtube.com/watch?v=xyL36bfWujA&ab_channel=Alena.pro.smm_
+- <span style="color:red">Видеоурок "Как добавить субтитры на видео"</span>
 - Видеоурок "Как убрать фон у сообщения"
 - https://www.youtube.com/watch?v=lqjFw6CjI74&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
 
@@ -106,13 +114,21 @@
  - https://katsiaryna31.github.io/smm1.0/3module/communication/
 
 ## Бонусы:
-- Видео урок " Как сделать сохранённые сообщения для ответа в директ"
-- https://www.youtube.com/watch?v=LvSvf-XAi6Yab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
-- Чеклист «Как НЕЛЬЗЯ писать работодателю»
+- <span style="color:red">100+ заголовков, привлекающих внимание</span>
+- Чеклист «Как не надо писать работодателю»
 - https://katsiaryna31.github.io/smm1.0/3module/check-lists/lettertoemployer/
 - Чеклист "Инструкция по оформлению кейсов"
 - https://katsiaryna31.github.io/smm1.0/3module/check-lists/cases/
-
+- Видео урок " Как сделать сохранённые сообщения для ответа в директ"
+- https://www.youtube.com/watch?v=LvSvf-XAi6Yab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- <span style="color:red">Шаблон договора с клиентом между смм и физ. лицом</span>
+- Чеклист "Отчет для клиента"
+- https://docs.google.com/file/d/12-UKsZT1rwhi1hwFfG6Mop_GpLiZW4C1/edit?filetype=msword
+- Обзор приложения INSTORIES
+- https://www.youtube.com/watch?v=V8Qd0iaLAgw&ab_channel=Alena.pro.smm_
+- <span style="color:red">Видеомонтаж Переодевание</span>
+- Чеклист "10 фраз на собеседовании, после которых вас не возьмут на работу"
+- https://katsiaryna31.github.io/smm1.0/4module/check-lists/interview/
 # 4 Модуль:
 ### Урок 4.1 Как набрать первых подписчиков 
 - https://katsiaryna31.github.io/smm1.0/4module/followers/
@@ -139,35 +155,23 @@
 
 ## Бонусы:
 
-- Видеоурок "Тонкости массфоловинга"
-- https://www.youtube.com/watch?v=SU0p0w1REZY&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
-- Видеоурок "Таргет через кнопку "Продвигать"
-- https://www.youtube.com/watch?v=ZXjtz78Kuoc
-- Чеклист "10 фраз на собеседовании, после которых вас не возьмут на работу"
-- https://katsiaryna31.github.io/smm1.0/4module/check-lists/interview/
-- Чеклист "Топ приложений для инстаграм"
-- https://docs.google.com/file/d/1cD-z33JXO9lLuVwPQycKlT36vqtt2igW/edit?filetype=msword
-- Обзор приложения INSTORIES
-- https://www.youtube.com/watch?v=V8Qd0iaLAgw&ab_channel=Alena.pro.smm_
-- Обзор приложения InShot
-- https://www.youtube.com/watch?v=xyL36bfWujA&ab_channel=Alena.pro.smm_
-- Обзор приложения CapCut
-- https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
-- Чеклист "Отчет для клиента"
-- https://docs.google.com/file/d/12-UKsZT1rwhi1hwFfG6Mop_GpLiZW4C1/edit?filetype=msword
 - Чеклист "Как понять, что аккаунт готов к рекламе"
 - https://docs.google.com/file/d/1RNVYku5ZEsFQyIalunKFTDcgTVI0ypbZ/edit?filetype=msword
-- Чеклист "160 ответов на возражения"
-- https://likecentre-files.website.yandexcloud.net/files/160-answers.pdf
-- Видеоурок "Гивы, мой опыт"
-- https://www.youtube.com/watch?v=r493mIt2sDU&ab_channel=Alena.pro.smm_
+- <span style="color:red">Телеграмм каналы по взаимному пиару «PR и бартер РБ» и «Otzovik Belarus”</span>
+- Видеоурок "Таргет через кнопку "Продвигать"
+- https://www.youtube.com/watch?v=ZXjtz78Kuoc
 - Чек-лист "Техническое задание для блогера"
 - https://docs.google.com/file/d/1nKsFtHxnrkYi_zqT8D37Y49eYMfn0H12/edit?filetype=msword
 - Шаблон "ТЗ для блогера"
 - https://docs.google.com/file/d/1PxZ8eDvvGO3QKw_s1TAmjMcy_juwB0hU/edit?filetype=msword
+- Чеклист "Отчет для клиента"
+- https://docs.google.com/file/d/12-UKsZT1rwhi1hwFfG6Mop_GpLiZW4C1/edit?filetype=msword
 - Чеклист "Создание подводок для рекламы у блогеров"
-- https://katsiaryna31.github.io/smm1.0/4module/check-lists/insta_advert/
-
+- https://katsiaryna31.github.io/smm1.0/4module/checklists/insta_advert/
+- Видеоурок "Тонкости массфоловинга"
+- https://www.youtube.com/watch?v=SU0p0w1REZY&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
+- Видеоурок "Гивы, мой опыт"
+- https://www.youtube.com/watch?v=r493mIt2sDU&ab_channel=Alena.pro.smm_
 
 # 5 Модуль:
 ### Урок 5.1 Сильный личный бренд
@@ -179,3 +183,24 @@
 - https://www.youtube.com/watch?v=pPIVYeKClpY&ab_channel=Alena.pro.smm_
 - Часть 2
 - https://www.youtube.com/watch?v=5xLowv_F0co&ab_channel=Alena.pro.smm_
+
+### Урок 5.3 Воронка продаж
+- Часть 1
+- https://www.youtube.com/watch?v=SR_jZV12_YQ&ab_channel=Alena.pro.smm_
+- Часть 2
+- https://www.youtube.com/watch?v=ICNbkzkGQPc&ab_channel=Alena.pro.smm_
+- Домашнее задание
+- https://docs.google.com/file/d/1RKGj5YhA0zwrQlNd5ybLhg_jfGQqk9UL/edit?filetype=msword
+
+
+## Бонусы:
+- <span style="color:red">Шаблон по распаковке личности</span>
+- <span style="color:red">Сценарии для закрепленных сторис</span>
+- <span style="color:red">Канал со стикерами</span>
+- Обзор приложения CapCut
+- https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
+- <span style="color:red">Телеграм канал с работодателямии специалистами</span>
+- <span style="color:red">Как быстро продвинуть свою страницу</span>
+- <span style="color:red">Страх СТОРИС как побороть</span>
+- Чеклист "160 ответов на возражения"
+- https://likecentre-files.website.yandexcloud.net/files/160-answers.pdf
