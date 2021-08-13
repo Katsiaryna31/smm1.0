@@ -192,6 +192,15 @@
 - Домашнее задание
 - https://docs.google.com/file/d/1RKGj5YhA0zwrQlNd5ybLhg_jfGQqk9UL/edit?filetype=msword
 
+### ~~Урок 5.4 Почему не покупают и как это исправить. Психология продаж.~~
+
+### Урок 5.5 2 тренда современного маркетинга, которые нельзя игнорировать.
+- https://www.youtube.com/watch?v=V5Tc7V7qaSA&ab_channel=Alena.pro.smm_
+
+### Урок 5.6 Правила создания хорошего чек листа:
+- https://katsiaryna31.github.io/smm1.0/5module/checklist/
+- Домашнее задание
+- https://docs.google.com/file/d/1kqtdNLOMjkxmK5hakcDx-ax66mfW0L4-/edit?filetype=msword
 
 ## Бонусы:
 - ~~Шаблон по распаковке личности~~
