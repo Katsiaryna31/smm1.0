@@ -209,7 +209,8 @@
 - Обзор приложения CapCut
 - https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
 - ~~Телеграм канал с работодателямии специалистами~~
-- ~~Как быстро продвинуть свою страницу~~
+- Как быстро продвинуть свою страницу, о чем молчат успешные блогеры
+- https://www.youtube.com/watch?v=sRmHXVBdJMc&ab_channel=Alena.pro.smm_
 - ~~Страх СТОРИС как побороть~~
 - Чеклист "160 ответов на возражения"
 - https://likecentre-files.website.yandexcloud.net/files/160-answers.pdf
