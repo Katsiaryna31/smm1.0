@@ -114,7 +114,8 @@
  - https://katsiaryna31.github.io/smm1.0/3module/communication/
 
 ## Бонусы:
-- ~~100+ заголовков, привлекающих внимание~~
+- 100+ заголовков, привлекающих внимание
+- https://docs.google.com/file/d/1VgJZskzVCwiJbHhSHeBnY6GFtC_ZbM65/edit?usp=docslist_api&filetype=msword
 - Чеклист «Как не надо писать работодателю»
 - https://katsiaryna31.github.io/smm1.0/3module/check-lists/lettertoemployer/
 - Чеклист "Инструкция по оформлению кейсов"
@@ -192,8 +193,8 @@
 - Домашнее задание
 - https://docs.google.com/file/d/1RKGj5YhA0zwrQlNd5ybLhg_jfGQqk9UL/edit?filetype=msword
 
-### ~~Урок 5.4 Почему не покупают и как это исправить. Психология продаж.~~
-
+### Урок 5.4 Почему не покупают и как это исправить. Психология продаж.
+- https://www.youtube.com/watch?v=ICNbkzkGQPc&ab_channel=Alena.pro.smm_
 ### Урок 5.5 2 тренда современного маркетинга, которые нельзя игнорировать.
 - https://www.youtube.com/watch?v=V5Tc7V7qaSA&ab_channel=Alena.pro.smm_
 
@@ -204,7 +205,8 @@
 
 ## Бонусы:
 - ~~Шаблон по распаковке личности~~
-- ~~Сценарии для закрепленных сторис~~
+- Сценарии для закрепленных сторис
+- https://www.youtube.com/watch?v=UPnUZrlPfJQ&ab_channel=Alena.pro.smm_
 - ~~Канал со стикерами~~
 - Обзор приложения CapCut
 - https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
@@ -213,4 +215,4 @@
 - https://www.youtube.com/watch?v=sRmHXVBdJMc&ab_channel=Alena.pro.smm_
 - ~~Страх СТОРИС как побороть~~
 - Чеклист "160 ответов на возражения"
-- https://likecentre-files.website.yandexcloud.net/files/160-answers.pdf
+- https://drive.google.com/file/d/1g0RR68pfm8H2BZhCSvyDdgQ5IUx6d3AX/view?usp=drivesdk
