@@ -83,7 +83,8 @@
 - https://www.instagram.com/tv/CMKW4Tah0kI/?utm_medium=copy_link
 - Обзор приложения InShot
 - https://www.youtube.com/watch?v=xyL36bfWujA&ab_channel=Alena.pro.smm_
-- ~~Видеоурок "Как добавить субтитры на видео"~~
+- Видеоурок "Как добавить субтитры на видео"
+- https://www.youtube.com/watch?v=MP18HITvg90&ab_channel=Alena.pro.smm_
 - Видеоурок "Как убрать фон у сообщения"
 - https://www.youtube.com/watch?v=lqjFw6CjI74&ab_channel=%D0%94%D0%BE%D1%87%D0%BA%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8
 
@@ -207,12 +208,14 @@
 - ~~Шаблон по распаковке личности~~
 - Сценарии для закрепленных сторис
 - https://www.youtube.com/watch?v=UPnUZrlPfJQ&ab_channel=Alena.pro.smm_
-- ~~Канал со стикерами~~
+- Канал со стикерами
+- https://t.me/joinchat/-iiFtXZ1BsJjMTgy
 - Обзор приложения CapCut
 - https://www.youtube.com/watch?v=lJ5tEBMRKiM&feature=youtu.be
 - ~~Телеграм канал с работодателямии специалистами~~
 - Как быстро продвинуть свою страницу, о чем молчат успешные блогеры
 - https://www.youtube.com/watch?v=sRmHXVBdJMc&ab_channel=Alena.pro.smm_
-- ~~Страх СТОРИС как побороть~~
+- Страх СТОРИС как побороть
+- https://www.youtube.com/watch?v=4D8pWbDj_KI&ab_channel=Alena.pro.smm_
 - Чеклист "160 ответов на возражения"
 - https://drive.google.com/file/d/1g0RR68pfm8H2BZhCSvyDdgQ5IUx6d3AX/view?usp=drivesdk
