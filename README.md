@@ -159,9 +159,10 @@
 
 - Чеклист "Как понять, что аккаунт готов к рекламе"
 - https://docs.google.com/file/d/1RNVYku5ZEsFQyIalunKFTDcgTVI0ypbZ/edit?filetype=msword
-- ~~Телеграмм каналы по взаимному пиару «PR и бартер РБ» и «Otzovik Belarus”~~
+- Телеграмм каналы по взаимному пиару «PR и бартер РБ» и «Otzovik Belarus”
+- https://katsiaryna31.github.io/smm1.0/4module/checklists/pr/
 - Видеоурок "Таргет через кнопку "Продвигать"
-- https://www.youtube.com/watch?v=ZXjtz78Kuoc
+- https://www.youtube.com/watch?v=0CxKeEH_HgA&ab_channel=Alena.pro.smm_
 - Чек-лист "Техническое задание для блогера"
 - https://docs.google.com/file/d/1nKsFtHxnrkYi_zqT8D37Y49eYMfn0H12/edit?filetype=msword
 - Шаблон "ТЗ для блогера"
