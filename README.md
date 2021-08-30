@@ -22,6 +22,8 @@
 - https://katsiaryna31.github.io/smm1.0/1module/check-lists/first-client/
 - ~~Телеграм каналы с готовыми сторис:~~
 - ~~Телеграм каналы с идеями для создания сторис:~~
+- Скринкаст "Как добавить фото в сторис , как сделать голосовалки в сторис"
+- https://www.youtube.com/watch?v=ANDNLVu11-g&ab_channel=Alena.pro.smm_
 
 ## Домашнее задание:
 - https://drive.google.com/file/d/1Lvntywd-L8quX6WpoqUIBFDlgwmsdHtm/view
