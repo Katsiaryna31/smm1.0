@@ -81,5 +81,14 @@ h1 {
 		background-size: 28px 28px;
 	}
 
+	.main-section {
+		flex-direction: column;
+	}
+
+	.main-section img {
+		width: 100%;
+		height: auto;
+	}
+
 }
 
