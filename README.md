@@ -4,7 +4,7 @@
 - Урок 1.1 Вводный урок:
 - https://katsiaryna31.github.io/smm1.0/1module/begin/
 - Урок 1.2 Кто такой смм:
-- https://katsiaryna31.github.io/smm1.0/1module/salaries/
+- https://drive.google.com/file/d/1Wbq5lxpJDYV292y0ynwtdJjh_4Ye6Cia/view
 - Урок 1.3 Словарь смм:
 - https://katsiaryna31.github.io/smm1.0/1module/definitions/
 - Урок 1.4 Как сделать обучение интересным:
